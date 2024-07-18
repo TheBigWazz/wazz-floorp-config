@@ -1,0 +1,8 @@
+#root.root {--tabs-height: 36px;}
+#root.root {--general-border-radius: 6px;}
+#root.root {--tabs-indent: 10px;}
+#root.root {padding-top: 0px;}
+#root.root {--tabs-close-btn-margin: 5px;}
+#root .popup-container {background-color: transparent;}
+#root .hidden-panels-popup-layer:before {background-color: transparent;}
+.NavigationBar{ display: none }
