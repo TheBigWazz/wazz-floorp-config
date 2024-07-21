@@ -58,73 +58,7 @@ Quote: https://userChrome.org | https://github.com/topics/userchrome
   padding-left: 0px !important;
 }
 
-/* Reload Button */
-#stop-reload-button {
-  position: fixed !important;
-  top: 4px !important;
-  left: 160px !important;
-}
 
-/* Forward Button */
-#forward-button {
-  position: fixed !important;
-  top: 4px !important;
-  left: 120px !important;
-}
-
-/* Back Button */
-#back-button {
-  position: fixed !important;
-  top: 4px !important;
-  left: 80px !important;
-}
-
-/* Profile button */
-#fxa-toolbar-menu-button {
-  position: fixed !important;
-  top: 0px !important;
-  left: 6px !important;
-}
-
-/* Profile Image */
-#fxa-avatar-image {
-width: 30px !important;
-height: 30px !important;
-}
-
-/* Settings Menu Button */
-#PanelUI-button {
-position: fixed !important;
-top: 4px !important;   
-left: 90% !important;  
-}
-
-/* Extensions button */
-#unified-extensions-button {
-  position: fixed !important;
-  top: 4px !important;
-  left: 86% !important;
-}
-
-/* Downloads button */
-#downloads-button {
-  position: fixed !important;
-  top: 4px !important;
-  left: 84% !important;
-}
-
-/* Profile Manager Button */
-#profile-manager {
-  position: fixed !important;
-  top: 4px !important;
-  left: 88% !important;
-  }
-
-/* Profile Image */
-#fxa-avatar-image {
-    width: 30px !important;
-    height: 30px !important;
-}
 
 /* Sidebar size and Autohide */
 #sidebar-box{
