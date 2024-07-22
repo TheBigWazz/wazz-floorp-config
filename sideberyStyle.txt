@@ -1,3 +1,9 @@
+/* Moving Sidebery navigation bar to bottom, to mimic how Space works on Arc Browser. Make sure to choose Horizontal when activating the navigation bar. */
+.top-horizontal-box {
+  display: flex;
+  order: 1; 
+}
+
 #root.root {--tabs-height: 36px;}
 #root.root {--general-border-radius: 6px;}
 #root.root {--tabs-indent: 10px;}
