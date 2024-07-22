@@ -21,7 +21,7 @@ Quote: https://userChrome.org | https://github.com/topics/userchrome
 /* Please write your custom CSS under this line*/
 
 /* Rounded URL bar */
-#urlbar-background,#urlbar {
+#urlbar-background,#urlbar,#identity-icon-box,#star-button-box {
   border-radius: 20px !important;
 }
 
